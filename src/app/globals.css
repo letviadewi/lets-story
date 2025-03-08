@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Moon+Dance&display=swap");
 @import "tailwindcss";
 
 :root {
@@ -22,5 +23,5 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Caveat", "Inter", Arial, Helvetica, sans-serif;
 }
